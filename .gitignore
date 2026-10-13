@@ -43,3 +43,21 @@ app.*.map.json
 /android/app/debug
 /android/app/profile
 /android/app/release
+
+# ===== TAMBAHAN =====
+# Android
+/android/.gradle/
+/android/local.properties
+/android/key.properties
+/android/app/*.jks
+/android/app/*.keystore
+
+# iOS
+/ios/Pods/
+/ios/.symlinks/
+/ios/Flutter/Flutter.framework
+/ios/Flutter/Flutter.podspec
+/ios/Flutter/App.framework
+
+# OS
+Thumbs.db
